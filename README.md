@@ -7,13 +7,13 @@
 
 ---
 
-- 🖥️ **Ferramentas e Tecnologias:**
+🖥️ **Ferramentas e Tecnologias:**
 
 [![My Skills](https://skillicons.dev/icons?i=windows,git,github,vscode,mysql)](https://skillicons.dev)
 
 ---
 
-- 🧑🏻‍💻 **Linguagens e Frameworks:**
+🧑🏻‍💻 **Linguagens e Frameworks:**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,cs)](https://skillicons.dev)
 
