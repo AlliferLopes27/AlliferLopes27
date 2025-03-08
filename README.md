@@ -15,7 +15,7 @@
 
 🧑🏻‍💻 **Linguagens e Frameworks:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,cs)](https://skillicons.dev)
 
 ---
 
