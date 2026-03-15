@@ -9,13 +9,13 @@
 
 🖥️ **Ferramentas e Tecnologias:**
 
-[![My Skills](https://skillicons.dev/icons?i=windows,figma,git,github,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,mysql,vscode,git,github&perline=3)](https://skillicons.dev)
 
 ---
 
 🧑🏻‍💻 **Linguagens e Frameworks:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,php,cs)](https://skillicons.dev)
 
 ---
 
