@@ -9,7 +9,7 @@
 
 🖥️ **Ferramentas e Tecnologias:**
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,mysql,vscode,visualstudio,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,mysql,vscode,git,github&perline=3)](https://skillicons.dev)
 
 ---
 
